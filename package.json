@@ -1,0 +1,14 @@
+{
+  "name": "json-overview",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "browser-sync start --server -f -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.9"
+  }
+}
